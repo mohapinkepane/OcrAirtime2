@@ -1,0 +1,8 @@
+{
+  "name": "OcrAirtime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "beece53c"
+}
